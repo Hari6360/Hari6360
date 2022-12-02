@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hari
+- 👋 Hi, I’m Hari Prasad
 - 🌱 I’m currently learning ..**.Full stack web development**
 - 📫 How to reach me ... **harip5868@gmail.com/6360342121**  
 
